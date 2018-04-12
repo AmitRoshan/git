@@ -13,6 +13,7 @@ public class MessagePrinter {
 
 	public void printMsg() {
 		
+		System.out.println("hello");
 		System.out.println(userMessage.getMsg());
 	}
 
